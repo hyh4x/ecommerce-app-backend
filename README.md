@@ -1,2 +1,2 @@
 # ecommerce-app-backend
-Backend part of Ecommerce Project developed with Spring Boot, Spring Data JPA/REST, MySQL.
+Backend part of E-commerce Project developed with Spring Boot, Spring Data JPA/REST, MySQL.
